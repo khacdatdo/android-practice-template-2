@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThucHanh2</string>
+    <string-array name="arraySpinner">
+        <item>Chưa kích hoạt</item>
+        <item>Đã kích hoạt</item>
+    </string-array>
+</resources>
